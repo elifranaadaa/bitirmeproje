@@ -1,0 +1,21 @@
+.gallery {
+  margin-top: 10px;
+  column-count: 3;
+  column-width: 33%;
+  padding: 0 12px;
+}
+.gallery .pics {
+  transition: all 350ms ease;
+  margin-bottom: 8px;
+}
+@media (max-width: 990px) {
+  .gallery {
+    column-count: 2;
+  }
+}
+@media (max-width: 480px) {
+  .gallery {
+    column-count: 1;
+    width: 100%;
+  }
+}

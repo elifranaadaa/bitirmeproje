@@ -16,7 +16,7 @@ export const Home = () => {
       >
         <div className="order">
           <p>Meram Belediyesi Ev Hanımları için </p>
-          <p>Ücretsiz El Sanatları Kursu Düzenliyor</p>
+          <p>Ücretsiz El Sanatları Kursları Düzenliyor</p>
           <Link to="/contact">
             <button>KURSA BAŞVUR</button>
           </Link>

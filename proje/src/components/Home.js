@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import BannerImage from "../assets/slider-img-1.jpg";
-import BannerImage8 from "../assets/baskan_12.jpg";
+import BannerImage8 from "../assets/about-img.18bf2ff46b4677d35ae4.jpg";
 
 import "../styles/Home.css";
 

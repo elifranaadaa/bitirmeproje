@@ -13,7 +13,7 @@
 
 .order {
   width: auto;
-  margin-left: 600px;
+  margin-left: 550px;
   margin-bottom: 300px;
 }
 
@@ -45,12 +45,11 @@ p {
 .yazi {
   display: flex;
   align-items: center;
-  background-color: cornsilk;
 }
 
 .imgbaskan img {
-  width: 500px;
-  height: 700px;
+  width: 700px;
+  height: 800px;
 }
 
 .yazi p {

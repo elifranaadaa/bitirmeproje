@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import BannerImage from "../assets/slider-img-1.jpg";
-import BannerImage8 from "../assets/baskan_12.jpg";
+import BannerImage8 from "../assets/about-img.18bf2ff46b4677d35ae4.jpg";
 
 import "../styles/Home.css";
 
@@ -16,7 +16,7 @@ export const Home = () => {
       >
         <div className="order">
           <p>Meram Belediyesi Ev Hanımları için </p>
-          <p>Ücretsiz El Sanatları Kursu Düzenliyor</p>
+          <p>Ücretsiz El Sanatları Kursları Düzenliyor</p>
           <Link to="/contact">
             <button>KURSA BAŞVUR</button>
           </Link>
